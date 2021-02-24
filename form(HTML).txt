@@ -1,0 +1,59 @@
+<html>
+<body>
+
+ <h2>My Bio Data</h2>
+    <form action="#">
+  <fieldset>
+    <legend>Personal Information:</legend>
+    FirstName:
+    <input type="text" id="fname" name="fname" placeholder="First Name ">
+ LastName :
+    <input type="text" id="lname" name="lname" placeholder="Last Name
+    "><br /><br />
+    Gender:
+  <input type="radio" id="male" name="gender" value="male">
+  Male:
+  <input type="radio" id="female" name="gender" value="female">
+ Female
+  <input type="radio" id="other" name="gender" value="other">Other
+  <br /><br />
+  Date of Birth :
+    <input type="date" id="birthday" name="birthday"><br><br>
+    Email:
+    <input type="email" id="email" name="email" placeholder="Enter Your Email
+    "><br><br>
+    Phone
+    <input type="tel" id="phone" name="phone" placeholder="+91"><br><br>
+    Age
+    <input type="text"  placeholder="Age"><br>
+    
+    
+  </fieldset>
+
+  <fieldset>
+    <legend>Education</legend>
+    School Name :
+    <input type="text"  placeholder="School Name">
+    <br><br>
+  
+College Name:
+ <input type="text"  placeholder="College Name">
+    <br><br>
+
+   Stream :
+  <select name="stream" id="stream">
+    <option value="Stream">Science </option>
+  <option value="Stream">Accounts </option>
+  <option value="Stream">Hotel Management</option>
+  </select>
+
+  <br><br>
+  Marksheet :
+  <input type="file" id="marksheet" name="marksheet">
+
+  </fieldset>
+  <br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>

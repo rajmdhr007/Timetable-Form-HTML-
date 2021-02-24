@@ -1,0 +1,82 @@
+<html>
+<head>
+</head>
+<body>
+<h2>TIMETABLE</h2>
+<table border=1 cellspacing="1">
+<tr>
+<th>Days/period</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+<tr>
+<td >Monday</td>
+<td>Hindi</td>
+<td>Science</td>
+<td>English</td>
+<td rowspan="5">Lunch</td>
+<td>Maths</td>
+<td colspan="2">Games</td>
+<td>Social</td>
+
+</tr>
+<tr>
+<td >Tuesday</td>
+<td>Social</td>
+<td>English</td>
+<td>Games</td>
+
+<td>Maths</td>
+<td colspan="2">Library</td>
+<td>Hindi</td>
+
+</tr>
+<tr>
+<td >Wednesday</td>
+<td>Social</td>
+<td>Science</td>
+<td>Games</td>
+
+<td>Science</td>
+<td colspan="2">Games</td>
+<td>English</td>
+
+</tr>
+<tr>
+<td >Thurday</td>
+<td>Hindi</td>
+<td>Science</td>
+<td>Hindi</td>
+
+<td>Maths</td>
+<td colspan="2">English</td>
+<td>Social</td>
+
+</tr>
+<tr>
+<td >Fridayday</td>
+<td>Hindi</td>
+<td>Games</td>
+<td>English</td>
+
+<td>Maths</td>
+<td colspan="2">Hindi</td>
+<td>Social</td>
+
+</tr>
+<tr>
+<td>Saturday</td>
+<td colspan="8"><center>HOLIDAY<center></td>
+</tr>
+
+
+
+</body>
+</html>
+
